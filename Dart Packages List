@@ -1,4 +1,3 @@
-
 Dio
 Http
 connectivity_plus
@@ -20,6 +19,15 @@ cloude_firestore
 firebase_core
 firebase_messaging
 form_builder_validators
+flutter_stripe
+fluttertoast
+image_picker
+shared_preferences
+google_maps_flutter
+geocoding
+flutter_polyline_points
+location
+google_sign_in
 
 
 
