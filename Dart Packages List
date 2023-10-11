@@ -28,6 +28,8 @@ geocoding
 flutter_polyline_points
 location
 google_sign_in
+google_maps_flutter_android
+google_maps_flutter_plateform_interface
 
 
 
