@@ -31,7 +31,18 @@ google_sign_in\
 google_maps_flutter_android\
 google_maps_flutter_plateform_interface\
 form_builder_validators 9.1.0\
-workManager
+workManager\
+  flutter_localization: ^0.2.0\
+    pin_code_fields: ^8.0.\
+      gradient_borders: ^1.0.0\
+  gradient_txt: ^1.0.0\
+    rate_my_app: ^2.0.0\
+  uni_links: ^0.5.1\
+  uuid: ^4.3.3\
+    googleapis: ^12.0.0\
+  googleapis_auth: ^1.4.1\
+   firebase_crashlytics: ^3.4.18\
+
 
 
 
