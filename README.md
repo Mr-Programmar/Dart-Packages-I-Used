@@ -31,6 +31,8 @@ google_sign_in\
 google_maps_flutter_android\
 google_maps_flutter_plateform_interface\
 form_builder_validators 9.1.0\
+workManager
+
 
 
 
